@@ -35,9 +35,7 @@ Formulario.tsx
 
 Formulario.css
 
-/ListaDeFilmes
-
-ListaDeFilmes.tsx
+/ListaDeFilme
 
 
 
