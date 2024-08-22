@@ -51,7 +51,6 @@ main.tsx
 
 vite-env.d.ts
 
-/package.json
 
 
 ### Componentes
