@@ -45,9 +45,7 @@ App.tsx
 
 App.css
 
-index.tsx
-
-main.tsx
+index.ts
 
 
 
