@@ -53,8 +53,6 @@ vite-env.d.ts
 
 /package.json
 
-/tsconfig.json
-
 
 ### Componentes
 
