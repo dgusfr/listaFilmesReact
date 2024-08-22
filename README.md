@@ -29,8 +29,6 @@ O projeto **Lista de Filmes** é um aplicativo web que permite aos usuários adi
 
 /componentes
 
-/Formulario
-
 
 
 
