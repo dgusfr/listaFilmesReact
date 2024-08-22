@@ -23,13 +23,6 @@ O projeto **Lista de Filmes** é um aplicativo web que permite aos usuários adi
 - Exibir lista de filmes adicionados.
 - Prevenir a adição de filmes duplicados com mensagens de erro.
 
-## Estrutura do Projeto
-
-
-
-
-
-
 ### Componentes
 
 - **Formulario**: Componente responsável por capturar os dados do novo filme e submetê-los.
