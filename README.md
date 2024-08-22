@@ -43,8 +43,6 @@ ListaDeFilmes.css
 
 App.tsx
 
-App.css
-
 
 
 
