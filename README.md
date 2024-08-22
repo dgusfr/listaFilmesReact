@@ -49,8 +49,6 @@ index.tsx
 
 main.tsx
 
-vite-env.d.ts
-
 
 
 ### Componentes
