@@ -2,6 +2,12 @@
 
 Um aplicativo simples de gerenciamento de lista de filmes criado com React e TypeScript, utilizando Vite como ferramenta de build.
 
+## Interface
+
+<div align="center">
+  <img src="img/logo.png" alt="Imagem do Projeto" width="900">
+</div>
+
 ## Tecnologias Utilizadas
 
 - React
@@ -11,7 +17,7 @@ Um aplicativo simples de gerenciamento de lista de filmes criado com React e Typ
 
 ## Status
 
-![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)
+![Em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge)
 
 ## Descrição
 
@@ -56,4 +62,4 @@ Mensagem de Erro: Renderiza uma mensagem de erro quando um filme duplicado é ad
 
 ## Autor
 
-Diego - Desenvolvedor Front-end
+Desenvolvido por Diego Franco.
