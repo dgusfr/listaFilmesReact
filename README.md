@@ -1,6 +1,6 @@
 # Lista de Filmes
 
-Um aplicativo simples de gerenciamento de lista de filmes criado com React e TypeScript, utilizando Vite como ferramenta de build.
+Um aplicativo simples de gerenciamento de lista de filmes criado com React e TypeScript.
 
 ## Interface
 
