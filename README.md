@@ -21,7 +21,9 @@ Um aplicativo simples de gerenciamento de lista de filmes criado com React e Typ
 
 ## Descrição
 
-O projeto **Lista de Filmes** é um aplicativo web que permite aos usuários adicionar filmes a uma lista, garantindo que não haja filmes duplicados. Quando um filme duplicado é adicionado, uma mensagem de erro é exibida por um breve período.
+O projeto **Lista de Filmes** é um aplicativo web que permite aos usuários adicionar filmes a uma lista, garantindo que não haja filmes duplicados. 
+
+Quando um filme duplicado é adicionado, uma mensagem de erro é exibida por um breve período.
 
 ## Funcionalidades
 
@@ -32,6 +34,7 @@ O projeto **Lista de Filmes** é um aplicativo web que permite aos usuários adi
 ### Componentes
 
 - **Formulario**: Componente responsável por capturar os dados do novo filme e submetê-los.
+  
 - **ListaDeFilmes**: Componente responsável por exibir a lista de filmes adicionados.
 
 ## Como Usar
