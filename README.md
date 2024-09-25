@@ -13,7 +13,6 @@ Um aplicativo simples de gerenciamento de lista de filmes criado com React e Typ
 - React
 - TypeScript
 
-
 ## Status
 
 ![Em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge)
@@ -45,7 +44,7 @@ Quando um filme duplicado é adicionado, uma mensagem de erro é exibida por um 
 
 ### Passo a Passo
 
-1. **Navegar até o Diretório do Projeto**
+1. **Navegue até o Diretório do Projeto**
 
    ```bash
    cd diretorioProjeto
