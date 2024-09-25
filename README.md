@@ -12,7 +12,6 @@ Um aplicativo simples de gerenciamento de lista de filmes criado com React e Typ
 
 - React
 - TypeScript
-- Vite
 
 
 ## Status
