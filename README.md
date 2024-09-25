@@ -46,7 +46,7 @@ O projeto **Lista de Filmes** é um aplicativo web que permite aos usuários adi
 1. **Navegar até o Diretório do Projeto**
 
    ```bash
-   cd caminho/para/o/diretório/do/projeto
+   cd diretorioProjeto
    ```
 
 ## Explicação
