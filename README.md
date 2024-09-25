@@ -55,9 +55,13 @@ App.tsx
 Este arquivo contém a lógica principal do aplicativo. Ele gerencia o estado da lista de filmes e a mensagem de erro para filmes duplicados.
 
 useState: Utilizado para gerenciar o estado dos filmes e da mensagem de erro.
+
 adicionarFilme: Função que adiciona um novo filme à lista, garantindo que não haja duplicatas.
+
 Formulario: Componente que captura os dados do novo filme.
+
 ListaDeFilmes: Componente que exibe a lista de filmes adicionados.
+
 Mensagem de Erro: Renderiza uma mensagem de erro quando um filme duplicado é adicionado.
 
 ## Autor
