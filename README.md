@@ -56,7 +56,7 @@ Quando um filme duplicado é adicionado, uma mensagem de erro é exibida por um 
 
 `useState:` Utilizado para gerenciar o estado dos filmes e da mensagem de erro.
 
-adicionarFilme: Função que adiciona um novo filme à lista, garantindo que não haja duplicatas.
+`adicionarFilme:` Função que adiciona um novo filme à lista, garantindo que não haja duplicatas.
 
 Formulario: Componente que captura os dados do novo filme.
 
