@@ -62,7 +62,7 @@ Quando um filme duplicado é adicionado, uma mensagem de erro é exibida por um 
 
 `ListaDeFilmes:` Componente que exibe a lista de filmes adicionados.
 
-Mensagem de Erro: Renderiza uma mensagem de erro quando um filme duplicado é adicionado.
+`Mensagem de Erro:` Renderiza uma mensagem de erro quando um filme duplicado é adicionado.
 
 ## Autor
 
