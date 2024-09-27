@@ -1,7 +1,8 @@
 # Lista de Filmes
 
 Um aplicativo simples de de criação e gerenciamento de lista de filmes criado com React e TypeScript.
-Implementação Futura: Adição de página 1001 filmes, nesta pagina será possivél viosualizar os 1001 filmes do livro "1001 movies to see before you die" 
+Implementação Futura: Adição de página 1001 filmes, nesta pagina será possivél viosualizar os 1001 filmes do livro "1001 movies to see before you die".
+Você podertá selecionar os filmes que já assistiu e eles serão salvos no localStorage.
 
 ## Interface
 
