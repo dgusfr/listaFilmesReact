@@ -1,7 +1,7 @@
 # Lista de Filmes
 
 Um aplicativo simples de de criação e gerenciamento de lista de filmes criado com React e TypeScript.
-Implementação Futura: 
+Implementação Futura: Adição de página 1001 filmes
 
 ## Interface
 
