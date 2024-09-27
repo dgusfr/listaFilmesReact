@@ -52,8 +52,7 @@ Quando um filme duplicado é adicionado, uma mensagem de erro é exibida por um 
 
 ## Explicação
 
-App.tsx
-Este arquivo contém a lógica principal do aplicativo. Ele gerencia o estado da lista de filmes e a mensagem de erro para filmes duplicados.
+`App.tsx:` Este arquivo contém a lógica principal do aplicativo. Ele gerencia o estado da lista de filmes e a mensagem de erro para filmes duplicados.
 
 useState: Utilizado para gerenciar o estado dos filmes e da mensagem de erro.
 
