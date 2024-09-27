@@ -58,7 +58,7 @@ Quando um filme duplicado é adicionado, uma mensagem de erro é exibida por um 
 
 `adicionarFilme:` Função que adiciona um novo filme à lista, garantindo que não haja duplicatas.
 
-Formulario: Componente que captura os dados do novo filme.
+`Formulario:` Componente que captura os dados do novo filme.
 
 ListaDeFilmes: Componente que exibe a lista de filmes adicionados.
 
