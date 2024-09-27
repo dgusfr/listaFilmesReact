@@ -60,7 +60,7 @@ Quando um filme duplicado é adicionado, uma mensagem de erro é exibida por um 
 
 `Formulario:` Componente que captura os dados do novo filme.
 
-ListaDeFilmes: Componente que exibe a lista de filmes adicionados.
+`ListaDeFilmes:` Componente que exibe a lista de filmes adicionados.
 
 Mensagem de Erro: Renderiza uma mensagem de erro quando um filme duplicado é adicionado.
 
