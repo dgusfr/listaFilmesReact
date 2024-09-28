@@ -1,25 +1,13 @@
-.cabecalho__container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  background-color: #31363f;
-  padding: 1em 2em;
-}
-
-.cabecalho__titulo {
-  color: #eeeeee;
+.cabecalho__titulo,
+.cabecalho__botao {
   text-decoration: none;
-  font-size: 1.5em;
+  color: #eeeeee;
 }
 
 .cabecalho__botao {
   background-color: #76abae;
-  border: none;
-  border-radius: 1.5em;
   padding: 0.5em 1em;
-  color: #eeeeee;
-  font-size: 1em;
-  cursor: pointer;
+  border-radius: 1.5em;
 }
 
 .cabecalho__botao:hover {
