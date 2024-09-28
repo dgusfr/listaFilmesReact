@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Formulario } from "./componentes/Formulario/Formulario";
 import { ListaDeFilmes } from "./componentes/ListaDeFilmes/ListaDeFilmes";
-import { Cabecalho } from "./componentes/Cabecalho/cabecalho";
+import { Cabecalho } from "./componentes/Cabecalho/Cabecalho";
 import "./App.css";
 
 export interface Filme {

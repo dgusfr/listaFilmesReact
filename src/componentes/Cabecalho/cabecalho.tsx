@@ -1,4 +1,4 @@
-import "./cabecalho.css";
+import "./Cabecalho.css";
 
 export const Cabecalho = () => {
   return (
