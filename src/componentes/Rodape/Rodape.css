@@ -1,0 +1,9 @@
+.rodape__container {
+  background-color: #31363f;
+  padding: 1em 0;
+  text-align: center;
+  color: #eeeeee;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
