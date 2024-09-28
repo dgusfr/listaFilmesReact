@@ -5,6 +5,7 @@ export const Rodape = () => {
 
   return (
     <footer className="rodape__container">
+      <p>Desenvolvido com React por Diego Franco.</p>
       <p>© {anoAtual} MovieList. Todos os direitos reservados.</p>
     </footer>
   );
