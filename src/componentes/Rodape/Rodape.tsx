@@ -1,4 +1,4 @@
-import "./rodape.css";
+import "./Rodape.css";
 
 export const Rodape = () => {
   return (

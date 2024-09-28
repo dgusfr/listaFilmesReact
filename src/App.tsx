@@ -2,6 +2,7 @@ import { useState } from "react";
 import { Formulario } from "./componentes/Formulario/Formulario";
 import { ListaDeFilmes } from "./componentes/ListaDeFilmes/ListaDeFilmes";
 import { Cabecalho } from "./componentes/Cabecalho/Cabecalho";
+import { Rodape } from "./componentes/Rodape/Rodape";
 import "./App.css";
 
 export interface Filme {
@@ -34,6 +35,7 @@ export default function App() {
           {erroFilmeDuplicado}
         </p>
       )}
+      <Rodape />
     </div>
   );
 }
