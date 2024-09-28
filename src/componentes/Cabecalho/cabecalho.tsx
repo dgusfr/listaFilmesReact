@@ -1,15 +1,18 @@
-import "./Cabecalho.css";
+import "./cabecalho.css";
+import { Link } from "react-router-dom";
 
 export const Cabecalho = () => {
   return (
     <header className="cabecalho__container">
       <div className="cabecalho__esquerda">
-        <a href="/" className="cabecalho__titulo">
+        <Link to="/" className="cabecalho__titulo">
           MovieList
-        </a>
+        </Link>
       </div>
       <div className="cabecalho__direita">
-        <button className="cabecalho__botao">1001 Filmes</button>
+        <Link to="/1001filmes" className="cabecalho__botao">
+          1001 Filmes
+        </Link>
       </div>
     </header>
   );
