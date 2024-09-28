@@ -10,7 +10,7 @@ export interface Filme {
   anoDeLancamento: string;
 }
 
-export default function App() {
+export const Home = () => {
   const [filmes, setFilmes] = useState<Filme[]>([]);
   const [erroFilmeDuplicado, setErroFilmeDuplicado] = useState<string>("");
 
@@ -26,7 +26,7 @@ export default function App() {
   }
 
   return (
-    <div>
+    <div className="app__container">
       <Cabecalho />
       <Formulario aoSubmeter={adicionarFilme} />
       <ListaDeFilmes filmes={filmes} />
@@ -38,4 +38,4 @@ export default function App() {
       <Rodape />
     </div>
   );
-}
+};
