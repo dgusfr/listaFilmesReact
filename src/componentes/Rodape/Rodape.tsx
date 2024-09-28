@@ -1,9 +1,11 @@
 import "./Rodape.css";
 
 export const Rodape = () => {
+  const anoAtual = new Date().getFullYear();
+
   return (
     <footer className="rodape__container">
-      <p>© 2023 MovieList. Todos os direitos reservados.</p>
+      <p>© {anoAtual} MovieList. Todos os direitos reservados.</p>
     </footer>
   );
 };
