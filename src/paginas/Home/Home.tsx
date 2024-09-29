@@ -3,6 +3,7 @@ import { Formulario } from "../../componentes/Formulario/Formulario";
 import { ListaDeFilmes } from "../../componentes/ListaDeFilmes/ListaDeFilmes";
 import { Cabecalho } from "../../componentes/Cabecalho/Cabecalho";
 import { Rodape } from "../../componentes/Rodape/Rodape";
+import "./Home.css";
 
 export interface Filme {
   nome: string;
@@ -25,15 +26,21 @@ export const Home = () => {
   }
 
   return (
-    <div className="app__container">
+    <div className="home">
       <Cabecalho />
-      <Formulario aoSubmeter={adicionarFilme} />
-      <ListaDeFilmes filmes={filmes} />
-      {erroFilmeDuplicado && (
-        <p className="alerta__erro" role="alert">
-          {erroFilmeDuplicado}
-        </p>
-      )}
+      <main className="conteudo-home">
+        <div className="formulario-container">
+          <Formulario aoSubmeter={adicionarFilme} />
+        </div>
+        <div className="lista-filmes-container">
+          <ListaDeFilmes filmes={filmes} />
+          {erroFilmeDuplicado && (
+            <p className="alerta__erro" role="alert">
+              {erroFilmeDuplicado}
+            </p>
+          )}
+        </div>
+      </main>
       <Rodape />
     </div>
   );
