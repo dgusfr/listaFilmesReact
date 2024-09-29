@@ -1,0 +1,27 @@
+[
+  {
+    "decada": "1990",
+    "filmes": [
+      { "id": 1, "titulo": "Confiança", "ano": 1990 },
+      { "id": 2, "titulo": "Sem Medo de Morrer", "ano": 1990 },
+      { "id": 3, "titulo": "Os Bons Companheiros", "ano": 1990 },
+      { "id": 4, "titulo": "Arcanjo", "ano": 1990 },
+      { "id": 5, "titulo": "Os Donos da Rua", "ano": 1991 },
+      { "id": 6, "titulo": "A Bela Intrigante", "ano": 1991 },
+      { "id": 7, "titulo": "O Rapto", "ano": 1991 },
+      { "id": 8, "titulo": "Um Dia Quente de Verão", "ano": 1991 },
+      { "id": 9, "titulo": "Garotos de Programa", "ano": 1991 },
+      { "id": 10, "titulo": "O Silêncio dos Inocentes", "ano": 1991 }
+    ]
+  },
+  {
+    "decada": "2000",
+    "filmes": [
+      { "id": 11, "titulo": "Os Catadores e Eu", "ano": 2000 },
+      { "id": 12, "titulo": "Amor à Flor da Pele", "ano": 2000 },
+      { "id": 13, "titulo": "Encontros e Desencontros", "ano": 2003 },
+      { "id": 14, "titulo": "Contra a Parede", "ano": 2004 },
+      { "id": 15, "titulo": "As Consequências do Amor", "ano": 2004 }
+    ]
+  }
+]
