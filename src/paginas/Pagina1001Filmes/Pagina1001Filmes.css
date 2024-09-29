@@ -1,6 +1,13 @@
-.pagina-1001-filmes .conteudo {
+.pagina-1001-filmes {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.conteudo {
+  flex: 1;
+  color: white;
   padding: 2em;
-  color: #eeeeee;
 }
 
 .pagina-1001-filmes h1 {
