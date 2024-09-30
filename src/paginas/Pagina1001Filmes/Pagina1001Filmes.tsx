@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState, useEffect, useRef } from "react";
 import { Cabecalho } from "../../componentes/Cabecalho/Cabecalho";
 import { Rodape } from "../../componentes/Rodape/Rodape";
 import filmesPorDecada from "../../dados/filmes.json";
@@ -10,8 +10,15 @@ export const Pagina1001Filmes = () => {
     return progressoSalvo ? JSON.parse(progressoSalvo) : [];
   });
 
-  // Salvar no localStorage sempre que filmesAssistidos for alterado
+  // Ref para rastrear a primeira renderização
+  const primeiraRenderizacao = useRef(true);
+
+  // Salvar no localStorage
   useEffect(() => {
+    if (primeiraRenderizacao.current) {
+      primeiraRenderizacao.current = false;
+      return;
+    }
     localStorage.setItem("filmesAssistidos", JSON.stringify(filmesAssistidos));
   }, [filmesAssistidos]);
 
