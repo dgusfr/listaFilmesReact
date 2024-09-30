@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import React, { useState, useEffect, useRef } from "react";
 import { Formulario } from "../../componentes/Formulario/Formulario";
 import { ListaDeFilmes } from "../../componentes/ListaDeFilmes/ListaDeFilmes";
 import { Cabecalho } from "../../componentes/Cabecalho/Cabecalho";
@@ -11,19 +11,21 @@ export interface Filme {
 }
 
 export const Home = () => {
-  const [filmes, setFilmes] = useState<Filme[]>([]);
+  const [filmes, setFilmes] = useState<Filme[]>(() => {
+    const filmesSalvos = localStorage.getItem("listaFilmes");
+    return filmesSalvos ? JSON.parse(filmesSalvos) : [];
+  });
   const [erroFilmeDuplicado, setErroFilmeDuplicado] = useState<string>("");
 
-  // Carrega a lista de filmes do localStorage ao carregar a página
-  useEffect(() => {
-    const filmesSalvos = localStorage.getItem("listaFilmes");
-    if (filmesSalvos) {
-      setFilmes(JSON.parse(filmesSalvos));
-    }
-  }, []);
+  // Ref para rastrear a primeira renderização
+  const primeiraRenderizacao = useRef(true);
 
   // Salva a lista de filmes no localStorage sempre que ela é atualizada
   useEffect(() => {
+    if (primeiraRenderizacao.current) {
+      primeiraRenderizacao.current = false;
+      return;
+    }
     localStorage.setItem("listaFilmes", JSON.stringify(filmes));
   }, [filmes]);
 
