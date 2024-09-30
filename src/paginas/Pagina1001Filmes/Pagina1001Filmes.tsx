@@ -5,17 +5,12 @@ import filmesPorDecada from "../../dados/filmes.json";
 import "./Pagina1001Filmes.css";
 
 export const Pagina1001Filmes = () => {
-  const [filmesAssistidos, setFilmesAssistidos] = useState<number[]>([]);
-
-  // Recuperar do localStorage
-  useEffect(() => {
+  const [filmesAssistidos, setFilmesAssistidos] = useState<number[]>(() => {
     const progressoSalvo = localStorage.getItem("filmesAssistidos");
-    if (progressoSalvo) {
-      setFilmesAssistidos(JSON.parse(progressoSalvo));
-    }
-  }, []);
+    return progressoSalvo ? JSON.parse(progressoSalvo) : [];
+  });
 
-  // Salvar no localStorage
+  // Salvar no localStorage sempre que filmesAssistidos for alterado
   useEffect(() => {
     localStorage.setItem("filmesAssistidos", JSON.stringify(filmesAssistidos));
   }, [filmesAssistidos]);
