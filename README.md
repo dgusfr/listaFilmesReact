@@ -6,7 +6,7 @@ Também é possuivél visualisar todos os 1001 filmes presentes no livro " 1001 
 ## Interface
 
 <div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="900">
+  <img src="img/logo.png" alt="Imagem do Projeto" width="1000">
 </div>
 
 ## Tecnologias Utilizadas
