@@ -30,3 +30,7 @@
   background-color: #5b979a;
   transform: scale(1.05);
 }
+
+.cabecalho a {
+  color: #f8f9fa;
+}
