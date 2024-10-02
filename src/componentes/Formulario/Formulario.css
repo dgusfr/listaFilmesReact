@@ -6,6 +6,7 @@
   gap: 1em;
   margin: 5% 15% 2% 15%;
   padding: 2em;
+  border: 1px solid #ccc;
   border-radius: 2em;
   background-color: #31363f;
   box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.08);
