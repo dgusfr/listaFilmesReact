@@ -42,3 +42,7 @@
 .item-filme input[type="checkbox"] {
   margin-right: 0.5em;
 }
+
+input[type="checkbox"] {
+  accent-color: #5b8c9a;
+}
