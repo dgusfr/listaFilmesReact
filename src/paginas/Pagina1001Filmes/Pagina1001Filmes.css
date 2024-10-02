@@ -20,6 +20,10 @@
   color: #76abae;
 }
 
+.lista-filmes li {
+  margin-bottom: 10px;
+}
+
 .lista-filmes {
   list-style: none;
   padding: 0;
