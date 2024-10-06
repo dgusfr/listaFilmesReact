@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import { Cabecalho } from "../../componentes/Cabecalho/Cabecalho";
+import { Cabecalho } from "../../componentes/Header/Header";
 import { Rodape } from "../../componentes/Rodape/Rodape";
 import filmesPorDecada from "../../dados/filmes.json";
 import "./Pagina1001Filmes.css";

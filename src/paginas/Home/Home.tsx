@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from "react";
 import { Formulario } from "../../componentes/Formulario/Formulario";
 import { ListaDeFilmes } from "../../componentes/ListaDeFilmes/ListaDeFilmes";
-import { Cabecalho } from "../../componentes/Cabecalho/Cabecalho";
+import { Cabecalho } from "../../componentes/Header/Header";
 import { Rodape } from "../../componentes/Rodape/Rodape";
 import "./Home.css";
 
