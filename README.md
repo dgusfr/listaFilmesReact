@@ -1,19 +1,24 @@
 # Lista de Filmes
 
-Um aplicativo simples de de criação e gerenciamento de lista de filmes criado com React e TypeScript.
-Implementação Futura: Adição de página 1001 filmes, nesta pagina será possivél viosualizar os 1001 filmes do livro "1001 movies to see before you die".
-Você podertá selecionar os filmes que já assistiu e eles serão salvos no localStorage.
+Um aplicativo de criação e gerenciamento de lista de filmes criado com React e TypeScript.
+Também é possuivél visualisar todos os 1001 filmes presentes no livro " 1001 filmes para ver antes de morrer" e selecionar os filmes que já assistiu e eles serão salvos no localStorage, armazenando seu progresso.
 
 ## Interface
 
 <div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="900">
+  <img src="img/logo.png" alt="Imagem do Projeto" width="1000">
 </div>
 
 ## Tecnologias Utilizadas
 
-- React
-- TypeScript
+<div style="display: flex; flex-direction: row;">
+  <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
+    <img src="img/js.png" alt="Logo Linguagem" width="100"/>
+  </div>
+  <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
+    <img src="img/react.png" alt="Logo Linguagem" width="100"/>
+  </div>
+</div>
 
 ## Status
 
@@ -21,7 +26,7 @@ Você podertá selecionar os filmes que já assistiu e eles serão salvos no loc
 
 ## Descrição
 
-O projeto **Lista de Filmes** é um aplicativo web que permite aos usuários adicionar filmes a uma lista, garantindo que não haja filmes duplicados. 
+O projeto **Lista de Filmes** é um aplicativo web que permite aos usuários adicionar filmes a uma lista, garantindo que não haja filmes duplicados.
 
 Quando um filme duplicado é adicionado, uma mensagem de erro é exibida por um breve período.
 
@@ -34,7 +39,6 @@ Quando um filme duplicado é adicionado, uma mensagem de erro é exibida por um 
 ### Componentes
 
 - **Formulario**: Componente responsável por capturar os dados do novo filme e submetê-los.
-  
 - **ListaDeFilmes**: Componente responsável por exibir a lista de filmes adicionados.
 
 ## Como Usar

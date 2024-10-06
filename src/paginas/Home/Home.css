@@ -1,0 +1,29 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.conteudo-home {
+  flex: 1;
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.conteudo-home h1 {
+  text-align: center;
+}
+
+.formulario-container {
+  width: 100%;
+  max-width: 1100px;
+  margin-bottom: 2em;
+}
+
+.lista-filmes-container {
+  width: 100%;
+  max-width: 800px;
+}

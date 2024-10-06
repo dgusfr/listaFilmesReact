@@ -1,0 +1,254 @@
+[
+  {
+    "decada": "1900",
+    "filmes": [
+      { "id": 1, "titulo": "Viagem à Lua", "ano": 1902 },
+      { "id": 2, "titulo": "O Grande Roubo do Trem", "ano": 1903 }
+    ]
+  },
+  {
+    "decada": "1910",
+    "filmes": [
+      { "id": 3, "titulo": "O Nascimento de uma Nação", "ano": 1915 },
+      { "id": 4, "titulo": "Os Vampiros", "ano": 1915 },
+      { "id": 5, "titulo": "Intolerância", "ano": 1916 },
+      { "id": 6, "titulo": "Flores Quebradas", "ano": 1919 }
+    ]
+  },
+  {
+    "decada": "1920",
+    "filmes": [
+      { "id": 7, "titulo": "O Gabinete do Dr. Caligari", "ano": 1920 },
+      { "id": 8, "titulo": "Dentro dos Nossos Portões", "ano": 1920 },
+      { "id": 9, "titulo": "Bem Abaixo do Leste", "ano": 1920 },
+      { "id": 10, "titulo": "Os Órfãos da Tempestade", "ano": 1921 },
+      { "id": 11, "titulo": "A Carruagem Fantasma", "ano": 1921 },
+      { "id": 12, "titulo": "A Sorridente Madame Beudet", "ano": 1922 },
+      { "id": 13, "titulo": "Dr. Mabuse, o Jogador", "ano": 1922 },
+      { "id": 14, "titulo": "Nosferatu, uma Sinfonia de Horror", "ano": 1922 },
+      { "id": 15, "titulo": "Esposas Tolas", "ano": 1922 },
+      { "id": 16, "titulo": "O Ladrão de Bagdá", "ano": 1924 },
+      { "id": 17, "titulo": "O Fantasma da Ópera", "ano": 1925 },
+      { "id": 18, "titulo": "O Encouraçado Potemkin", "ano": 1925 },
+      { "id": 19, "titulo": "A Corrida do Ouro", "ano": 1925 },
+      { "id": 20, "titulo": "A Grande Parada", "ano": 1925 },
+      { "id": 21, "titulo": "Sete Chances", "ano": 1925 },
+      { "id": 22, "titulo": "Metrópolis", "ano": 1927 },
+      { "id": 23, "titulo": "O General", "ano": 1927 },
+      { "id": 24, "titulo": "O Desconhecido", "ano": 1927 },
+      { "id": 25, "titulo": "Outubro", "ano": 1927 },
+      { "id": 26, "titulo": "O Cantor de Jazz", "ano": 1927 }
+    ]
+  },
+  {
+    "decada": "1930",
+    "filmes": [
+      { "id": 27, "titulo": "Drácula", "ano": 1931 },
+      { "id": 28, "titulo": "Frankenstein", "ano": 1931 },
+      { "id": 29, "titulo": "O Inimigo Público", "ano": 1931 },
+      { "id": 30, "titulo": "King Kong", "ano": 1933 },
+      { "id": 31, "titulo": "Juiz Sacerdote", "ano": 1934 },
+      { "id": 32, "titulo": "Revolta a Bordo", "ano": 1935 },
+      { "id": 33, "titulo": "Os 39 Degraus", "ano": 1935 },
+      { "id": 34, "titulo": "Uma Noite na Ópera", "ano": 1935 },
+      { "id": 35, "titulo": "A Noiva de Frankenstein", "ano": 1935 },
+      { "id": 36, "titulo": "Capitão Blood", "ano": 1935 },
+      { "id": 37, "titulo": "O Picolé", "ano": 1935 },
+      { "id": 38, "titulo": "Peter Ibbetson", "ano": 1935 }
+    ]
+  },
+  {
+    "decada": "1940",
+    "filmes": [
+      { "id": 39, "titulo": "A Sétima Vítima", "ano": 1943 },
+      { "id": 40, "titulo": "O Homem de Cinza", "ano": 1943 },
+      { "id": 41, "titulo": "A Sombra de uma Dúvida", "ano": 1943 },
+      { "id": 42, "titulo": "Obsessão", "ano": 1943 },
+      { "id": 43, "titulo": "Eu Caminhei com um Zumbi", "ano": 1943 }
+    ]
+  },
+  {
+    "decada": "1950",
+    "filmes": [
+      { "id": 44, "titulo": "Orfeu", "ano": 1950 },
+      { "id": 45, "titulo": "Cidade Nua", "ano": 1950 },
+      { "id": 46, "titulo": "Rashomon", "ano": 1950 },
+      { "id": 47, "titulo": "A Malvada", "ano": 1950 },
+      { "id": 48, "titulo": "Winchester 73", "ano": 1950 },
+      { "id": 49, "titulo": "Rio Grande", "ano": 1950 },
+      { "id": 50, "titulo": "Crepúsculo dos Deuses", "ano": 1950 }
+    ]
+  },
+  {
+    "decada": "1960",
+    "filmes": [
+      { "id": 51, "titulo": "Spartacus", "ano": 1960 },
+      { "id": 52, "titulo": "Psicose", "ano": 1960 },
+      { "id": 53, "titulo": "A Doce Vida", "ano": 1960 },
+      { "id": 54, "titulo": "Se Meu Apartamento Falasse", "ano": 1960 }
+    ]
+  },
+  {
+    "decada": "1970",
+    "filmes": [
+      { "id": 55, "titulo": "O Poderoso Chefão", "ano": 1972 },
+      { "id": 56, "titulo": "O Último Tango em Paris", "ano": 1972 },
+      { "id": 57, "titulo": "Golpe de Mestre", "ano": 1973 },
+      { "id": 58, "titulo": "Papillon", "ano": 1973 },
+      { "id": 59, "titulo": "Serpico", "ano": 1973 },
+      { "id": 60, "titulo": "O Exorcista", "ano": 1973 }
+    ]
+  },
+  {
+    "decada": "1980",
+    "filmes": [
+      { "id": 61, "titulo": "O Iluminado", "ano": 1980 },
+      { "id": 62, "titulo": "Star Wars: O Império Contra-Ataca", "ano": 1980 },
+      { "id": 63, "titulo": "Reds", "ano": 1981 },
+      { "id": 64, "titulo": "E.T.: O Extraterrestre", "ano": 1982 }
+    ]
+  },
+  {
+    "decada": "1990",
+    "filmes": [
+      { "id": 65, "titulo": "Confiança", "ano": 1990 },
+      { "id": 66, "titulo": "Sem Medo de Morrer", "ano": 1990 },
+      { "id": 67, "titulo": "Os Bons Companheiros", "ano": 1990 },
+      { "id": 68, "titulo": "Arcanjo", "ano": 1990 },
+      { "id": 69, "titulo": "Os Donos da Rua", "ano": 1991 },
+      { "id": 70, "titulo": "O Silêncio dos Inocentes", "ano": 1991 }
+    ]
+  },
+  {
+    "decada": "2000",
+    "filmes": [
+      { "id": 71, "titulo": "Os Catadores e Eu", "ano": 2000 },
+      { "id": 72, "titulo": "Amor à Flor da Pele", "ano": 2000 },
+      { "id": 73, "titulo": "Gladiador", "ano": 2000 },
+      { "id": 74, "titulo": "Réquiem para um Sonho", "ano": 2000 },
+      { "id": 75, "titulo": "Amores Brutos", "ano": 2000 },
+      { "id": 76, "titulo": "Memento", "ano": 2000 },
+      { "id": 77, "titulo": "O Tigre e o Dragão", "ano": 2000 },
+      { "id": 78, "titulo": "Cidade de Deus", "ano": 2002 },
+      { "id": 79, "titulo": "O Pianista", "ano": 2002 },
+      {
+        "id": 80,
+        "titulo": "O Senhor dos Anéis: A Sociedade do Anel",
+        "ano": 2001
+      },
+      { "id": 81, "titulo": "O Senhor dos Anéis: As Duas Torres", "ano": 2002 },
+      {
+        "id": 82,
+        "titulo": "O Senhor dos Anéis: O Retorno do Rei",
+        "ano": 2003
+      },
+      { "id": 83, "titulo": "A Viagem de Chihiro", "ano": 2001 },
+      {
+        "id": 84,
+        "titulo": "O Fabuloso Destino de Amélie Poulain",
+        "ano": 2001
+      },
+      { "id": 85, "titulo": "Oldboy", "ano": 2003 },
+      { "id": 86, "titulo": "Kill Bill: Volume 1", "ano": 2003 },
+      { "id": 87, "titulo": "Encontros e Desencontros", "ano": 2003 },
+      { "id": 88, "titulo": "As Invasões Bárbaras", "ano": 2003 },
+      {
+        "id": 89,
+        "titulo": "A Queda! As Últimas Horas de Hitler",
+        "ano": 2004
+      },
+      { "id": 90, "titulo": "A Paixão de Cristo", "ano": 2004 },
+      { "id": 91, "titulo": "Crash: No Limite", "ano": 2004 },
+      { "id": 92, "titulo": "Menina de Ouro", "ano": 2004 },
+      { "id": 93, "titulo": "O Labirinto do Fauno", "ano": 2006 },
+      { "id": 94, "titulo": "A Vida dos Outros", "ano": 2006 },
+      { "id": 95, "titulo": "Filhos da Esperança", "ano": 2006 },
+      { "id": 96, "titulo": "Borat", "ano": 2006 },
+      { "id": 97, "titulo": "O Grande Truque", "ano": 2006 },
+      { "id": 98, "titulo": "Pequena Miss Sunshine", "ano": 2006 },
+      { "id": 99, "titulo": "Os Infiltrados", "ano": 2006 },
+      { "id": 100, "titulo": "Sangue Negro", "ano": 2007 },
+      { "id": 101, "titulo": "Na Natureza Selvagem", "ano": 2007 },
+      { "id": 102, "titulo": "Desejo e Reparação", "ano": 2007 },
+      { "id": 103, "titulo": "Onde os Fracos Não Têm Vez", "ano": 2007 },
+      { "id": 104, "titulo": "O Escafandro e a Borboleta", "ano": 2007 },
+      { "id": 105, "titulo": "Guerra ao Terror", "ano": 2008 },
+      { "id": 106, "titulo": "Quem Quer Ser um Milionário?", "ano": 2008 },
+      { "id": 107, "titulo": "O Cavaleiro das Trevas", "ano": 2008 },
+      { "id": 108, "titulo": "Deixe Ela Entrar", "ano": 2008 },
+      { "id": 109, "titulo": "Wall-E", "ano": 2008 },
+      { "id": 110, "titulo": "Avatar", "ano": 2009 },
+      { "id": 111, "titulo": "Bastardos Inglórios", "ano": 2009 },
+      { "id": 112, "titulo": "A Fita Branca", "ano": 2009 },
+      { "id": 113, "titulo": "O Segredo dos Seus Olhos", "ano": 2009 },
+      { "id": 114, "titulo": "Preciosa", "ano": 2009 },
+      { "id": 115, "titulo": "Distrito 9", "ano": 2009 },
+      { "id": 116, "titulo": "Amor Sem Escalas", "ano": 2009 }
+    ]
+  },
+  {
+    "decada": "2010",
+    "filmes": [
+      { "id": 117, "titulo": "A Rede Social", "ano": 2010 },
+      { "id": 118, "titulo": "A Origem", "ano": 2010 },
+      { "id": 119, "titulo": "Cisne Negro", "ano": 2010 },
+      { "id": 120, "titulo": "O Discurso do Rei", "ano": 2010 },
+      { "id": 121, "titulo": "Toy Story 3", "ano": 2010 },
+      { "id": 122, "titulo": "A Separação", "ano": 2011 },
+      { "id": 123, "titulo": "O Artista", "ano": 2011 },
+      { "id": 124, "titulo": "Meia-Noite em Paris", "ano": 2011 },
+      { "id": 125, "titulo": "A Invenção de Hugo Cabret", "ano": 2011 },
+      { "id": 126, "titulo": "Drive", "ano": 2011 },
+      { "id": 127, "titulo": "Shame", "ano": 2011 },
+      { "id": 128, "titulo": "Os Vingadores", "ano": 2012 },
+      { "id": 129, "titulo": "Django Livre", "ano": 2012 },
+      { "id": 130, "titulo": "Amor", "ano": 2012 },
+      { "id": 131, "titulo": "Indomável Sonhadora", "ano": 2012 },
+      { "id": 132, "titulo": "A Hora Mais Escura", "ano": 2012 },
+      { "id": 133, "titulo": "O Mestre", "ano": 2012 },
+      { "id": 134, "titulo": "Gravidade", "ano": 2013 },
+      { "id": 135, "titulo": "Clube de Compras Dallas", "ano": 2013 },
+      { "id": 136, "titulo": "Ela", "ano": 2013 },
+      { "id": 137, "titulo": "12 Anos de Escravidão", "ano": 2013 },
+      { "id": 138, "titulo": "O Lobo de Wall Street", "ano": 2013 },
+      { "id": 139, "titulo": "O Grande Hotel Budapeste", "ano": 2014 },
+      { "id": 140, "titulo": "Birdman", "ano": 2014 },
+      { "id": 141, "titulo": "Whiplash", "ano": 2014 },
+      { "id": 142, "titulo": "Boyhood", "ano": 2014 },
+      { "id": 143, "titulo": "Mad Max: Estrada da Fúria", "ano": 2015 },
+      { "id": 144, "titulo": "O Regresso", "ano": 2015 },
+      { "id": 145, "titulo": "Spotlight", "ano": 2015 },
+      { "id": 146, "titulo": "O Quarto de Jack", "ano": 2015 },
+      { "id": 147, "titulo": "A Chegada", "ano": 2016 },
+      { "id": 148, "titulo": "La La Land", "ano": 2016 },
+      { "id": 149, "titulo": "Moonlight", "ano": 2016 },
+      { "id": 150, "titulo": "Manchester à Beira-Mar", "ano": 2016 },
+      { "id": 151, "titulo": "Até o Último Homem", "ano": 2016 },
+      { "id": 152, "titulo": "Corra!", "ano": 2017 },
+      { "id": 153, "titulo": "Dunkirk", "ano": 2017 },
+      { "id": 154, "titulo": "A Forma da Água", "ano": 2017 },
+      { "id": 155, "titulo": "Me Chame Pelo Seu Nome", "ano": 2017 },
+      { "id": 156, "titulo": "Três Anúncios Para um Crime", "ano": 2017 },
+      { "id": 157, "titulo": "Roma", "ano": 2018 },
+      { "id": 158, "titulo": "Pantera Negra", "ano": 2018 },
+      { "id": 159, "titulo": "Nasce uma Estrela", "ano": 2018 },
+      { "id": 160, "titulo": "Vingadores: Ultimato", "ano": 2019 },
+      { "id": 161, "titulo": "Parasita", "ano": 2019 },
+      { "id": 162, "titulo": "Era uma Vez em... Hollywood", "ano": 2019 },
+      { "id": 163, "titulo": "1917", "ano": 2019 },
+      { "id": 164, "titulo": "O Irlandês", "ano": 2019 },
+      { "id": 165, "titulo": "Jojo Rabbit", "ano": 2019 }
+    ]
+  },
+  {
+    "decada": "2020",
+    "filmes": [
+      { "id": 166, "titulo": "Nomadland", "ano": 2020 },
+      { "id": 167, "titulo": "A Voz Suprema do Blues", "ano": 2020 },
+      { "id": 168, "titulo": "Soul", "ano": 2020 },
+      { "id": 169, "titulo": "Minari: Em Busca da Felicidade", "ano": 2020 },
+      { "id": 170, "titulo": "Meu Pai", "ano": 2021 },
+      { "id": 171, "titulo": "Judas e o Messias Negro", "ano": 2021 }
+    ]
+  }
+]

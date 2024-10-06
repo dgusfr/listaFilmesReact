@@ -1,0 +1,53 @@
+.pagina-1001-filmes {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.conteudo {
+  flex: 1;
+  color: white;
+  padding: 2em;
+}
+
+.pagina-1001-filmes h1 {
+  text-align: center;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
+.pagina-1001-filmes h2 {
+  margin-top: 1.5em;
+  color: #76abae;
+}
+
+.lista-filmes li {
+  margin-bottom: 10px;
+}
+
+.lista-filmes {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.item-filme {
+  margin-bottom: 0.5em;
+}
+
+.item-filme.assistido label {
+  text-decoration: line-through;
+  color: #888;
+}
+
+.item-filme input[type="checkbox"] {
+  margin-right: 0.5em;
+}
+
+input[type="checkbox"] {
+  accent-color: #5b8c9a;
+}
+
+section {
+  padding: 20px;
+}

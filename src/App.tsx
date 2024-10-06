@@ -1,36 +1,14 @@
-import { Formulario } from "./componentes/Formulario/Formulario"
-import { useState } from "react"
-import { ListaDeFilmes } from "./componentes/ListaDeFilmes/ListaDeFilmes"
-import "./App.css"
-
-export interface Filme {
-  nome: string,
-  anoDeLancamento: string
-}
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { Home } from "./paginas/Home/Home";
+import { Pagina1001Filmes } from "./paginas/Pagina1001Filmes/Pagina1001Filmes";
 
 export default function App() {
-
-  const [filmes, setFilmes] = useState<Filme[]>([])
-
-  const [erroFilmeDuplicado, setErroFilmeDuplicado] = useState<string>('');
-
-  function adicionarFilme(filme: Filme) {
-
-    if (filmes.some(f => f.nome === filme.nome)) {
-      setErroFilmeDuplicado('Não é possível adicionar, pois o filme já está na lista!')
-      setTimeout(() => setErroFilmeDuplicado(''), 3000);
-      return
-    }
-    setFilmes([...filmes, filme])
-  }
-
   return (
-    <div>
-      <Formulario aoSubmeter={adicionarFilme} />
-      <ListaDeFilmes filmes={filmes} />
-      {/* Renderiza a mensagem de erro */}
-      {erroFilmeDuplicado && <p className="alerta__erro" role='alert'>{erroFilmeDuplicado}</p>}
-    </div>
-
-  )
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/1001filmes" element={<Pagina1001Filmes />} />
+      </Routes>
+    </Router>
+  );
 }

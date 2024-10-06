@@ -1,0 +1,11 @@
+.rodape {
+  font-size: 1.2em;
+  padding: 15px 0;
+}
+
+.rodape__container {
+  background-color: #31363f;
+  padding: 1em 0;
+  text-align: center;
+  color: #eeeeee;
+}
